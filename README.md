@@ -9,7 +9,6 @@
 
 - ⚡ Fun fact **I am rlly bad at anything other then CSS and HTML**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
