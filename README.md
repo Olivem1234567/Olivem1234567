@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ollie</h1>
-<h3 align="center">A passionate HTMl coder from PA</h3>
+<h3 align="center">A passionate HTML coder from the US</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olivem1234567&label=Profile%20views&color=0e75b6&style=flat" alt="olivem1234567" /> </p>
 
