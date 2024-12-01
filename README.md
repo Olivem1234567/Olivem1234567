@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olivem1234567&label=Profile%20views&color=0e75b6&style=flat" alt="olivem1234567" /> </p>
 
-- 🔭 I’m currently working on my website [olivem1234567.github.io](https://github.com/Olivem1234567/olivem1234567.github.io)
-
 - 👨‍💻 All of my projects are available at [https://github.com/Olivem1234567?tab=repositories](https://github.com/Olivem1234567?tab=repositories)
-
-- ⚡ Fun fact **I am rlly bad at anything other then CSS and HTML**
 
 <p align="left">
 </p>
